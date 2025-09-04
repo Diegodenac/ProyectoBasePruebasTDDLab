@@ -1,0 +1,21 @@
+[
+  {
+    "sha": "HEAD",
+    "author": "Diegodenac",
+    "commit": {
+      "date": "2025-09-04T16:04:09.000Z",
+      "message": "First push",
+      "url": "https://github.com/Diegodenac/ProyectoBasePruebasTDDLab/commit/HEAD"
+    },
+    "stats": {
+      "total": 29903,
+      "additions": 29902,
+      "deletions": 1,
+      "date": "2025-09-04"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
+  }
+]
