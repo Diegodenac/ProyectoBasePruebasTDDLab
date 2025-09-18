@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "f873b0c457fc64222e9a1cefdbb76b500a90317a",
     "author": "Diegodenac",
     "commit": {
       "date": "2025-09-04T16:04:09.000Z",
       "message": "First push",
-      "url": "https://github.com/Diegodenac/ProyectoBasePruebasTDDLab/commit/HEAD"
+      "url": "https://github.com/Diegodenac/ProyectoBasePruebasTDDLab/commit/f873b0c457fc64222e9a1cefdbb76b500a90317a"
     },
     "stats": {
       "total": 29903,
@@ -17,5 +17,24 @@
     "test_count": 1,
     "failed_tests": 0,
     "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Diegodenac",
+    "commit": {
+      "date": "2025-09-18T18:24:07.000Z",
+      "message": "Refactor in texts",
+      "url": "https://github.com/Diegodenac/ProyectoBasePruebasTDDLab/commit/HEAD"
+    },
+    "stats": {
+      "total": 6,
+      "additions": 3,
+      "deletions": 3,
+      "date": "2025-09-18"
+    },
+    "coverage": 0,
+    "test_count": 0,
+    "failed_tests": 0,
+    "conclusion": "neutral"
   }
 ]
